@@ -1,9 +1,9 @@
 pyTelegramBotAPI==4.14.0
 requests==2.31.0
 Flask==3.0.0
-SQLite3
 logging
 datetime
 hashlib
 hmac
 json 
+
